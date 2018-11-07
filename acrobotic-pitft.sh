@@ -2,7 +2,7 @@
 
 # Instructions!
 # cd ~
-# wget https://raw.githubusercontent.com/acrobotic/Raspberry-Pi-Installer-Scripts/master/acrobotic-pitft.sh
+# wget https://raw.githubusercontent.com/acrobotic/Ai_RaspberryPi/master/acrobotic-pitft.sh
 # chmod +x acrobotic-pitft.sh
 # sudo ./acrobotic-pitft.sh
 
